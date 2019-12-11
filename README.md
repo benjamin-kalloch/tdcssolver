@@ -1,6 +1,6 @@
 # TDCSSolver
 
-A solver application implementing the OpenFOAM API to compute a) the electrical field strength (E), b) the electrical current density (J) and c) electrical potential (ElPot) of a test case simulating transcranial direct current stimulation (tDCS). The application supports an arbitrary number of electrodes and conductivity values defined either as scalar values or tensor values. The application is described in the paper **A flexible open-source pipeline for simulating transcranial electric stimulation** by *Benjamin Kalloch, Pierre-Louis Bazin, Arno Villringer, Bernhard Sehm, and Mario Hlawitschka*.
+A solver application implementing the OpenFOAM API to compute a) the electrical field strength (E), b) the electrical current density (J) and c) electrical potential (ElPot) of a test case simulating transcranial direct current stimulation (tDCS). The application supports an arbitrary number of electrodes and conductivity values defined either as scalar values or tensor values. The application is described in the paper **A flexible workflow for simulating transcranial electric stimulation in healthy and lesioned brains** by *Benjamin Kalloch, Pierre-Louis Bazin, Arno Villringer, Bernhard Sehm, and Mario Hlawitschka*.
 
 ## How to compile
 The application compiles using the OpenFOAM v6 API:
